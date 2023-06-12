@@ -30,3 +30,5 @@ How can this be used?
 * Experiments with Utopia API in Telegram
 * Personal use by sending QRcode and Ucode to other people to pay, etc.
 * Ability to integrate other APIs and modules (for example, publishing on multiple platforms when adding the required API)
+---
+[![udocs](https://github.com/Sagleft/ures/blob/master/udocs-btn.png?raw=true)](https://udocs.gitbook.io/utopia-api/)
